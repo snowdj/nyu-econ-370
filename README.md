@@ -11,7 +11,20 @@ use python to teach economics and economics to teach python.
 
 ### Notices
 
-**Assignment \#6: Asset Pricing** has been posted to the assignments folder. Please submit the assignment by **6:00pm on Friday 29th April**.
+**Final Exam** will be held as per the **officially** scheduled timetable on 12th May. 
+
+For those students who have **conflicting exams** or have **3 or more exams** on the same day please send me an email. There is an alternative exam scheduled for 13th May from 2:00pm to 3:50pm. To attend on Friday you **must** be registered to sit this exam. 
+
+
+**Alternative Exam Details** 
+
+|              |               |
+|--------------|---------------|
+| **Date:**    | 13th May 2016 |
+| **Time:**    | 2:00pm to 3:50pm |
+|**Location:** | Rm 736 [19 W. 4th Street, 7FL - Economics] |
+
+Solutions to Assignment \#4 were effectively covered when we discussed the midterm solutions to the Lake Model question in class. Please consult your class notes.
 
 **Note** To get the best rendering for notebooks it is best to use nbviewer. This can be done by prepending the notebook web address with http://nbviewer.jupyter.org/github/. An example is:
 
@@ -19,14 +32,22 @@ http://nbviewer.jupyter.org/github/mmcky/nyu-econ-370/blob/master/notebooks/note
 
 Please submit assignments to: econ370nyu@gmail.com as a Jupyter notebook with your solutions.  
 
+For those that attended the Python Fundamentals Workshop. The solutions notebook has been posted to the ``notebooks`` folder. 
+
 ### Updates
 
+* Added comment on Solutions for Assignment #4 [10th May 2016]
+* Posted update to Solutions for Assignment #6 to incorporate the linear algebra discussed in class [09th May 2016]
+* Posted Solutions for Assignment #5 Pandas and Assignment #6 on Asset Pricing [04th May 2016]
+* Updated Assignment #6 Question #3 [26th April 2016]
+* Posted Asset Pricing Lectures 3 and 4 [26th April 2016]
 * Posted Asset Pricing Homework - Assignment #6 [22nd April 2016]
+* Added python-fundamentals-workshop-solutions notebook
 * Updated working with data lecture [19th April 2016]
 * Posted Asset Pricing - Lecture 2 notes. [15th April 2016]
 * Posted a copy of the midterm exam. [13th April 2016]
 * Asset Pricing - Lecture 1 notes have been posted to the *lectures* folder [13th April 2016]
-* Assignment #5 has been posted and is due **Thursday 21st April** [13th April 2016]
+* Assignment #5 has been posted and is due ~~Thursday 21st April~~ **Tuesday 26th April** [13th April 2016]
 * Assignment #4 has been posted and is due **Tuesday 05th April** [26th March 2016]
 * Updated Lake Model worker dynamics lecture and posted some solutions for assignment #3 [24th March 2016]
 * Uploaded a python reference sheet [21st March 2016]
